@@ -1,0 +1,23 @@
+Experience-Based Salary Prediction
+Project Overview
+This project is focused on predicting salaries based on years of experience using a linear regression model. The goal is to understand how experience influences salary, providing useful insights for job seekers, HR teams, and anyone interested in salary trends. By analyzing real-world data, the model predicts salaries based on inputted experience, helping individuals or companies forecast earnings.
+
+How to Use the Project
+Install Dependencies:---
+
+Before running the project, make sure you have Python installed. Install the necessary libraries by running:-----
+pip install -r requirements.txt
+This will install Pandas, Scikit-learn, Matplotlib, and other required packages.
+
+Running the Model:----
+Open the Jupyter notebook or Python script, load the dataset, and run the linear regression model to see salary predictions based on experience data.
+
+Custom Input:----
+You can also modify the dataset with your own experience-salary data to see personalized predictions. Just replace the existing dataset with your own, and re-run the model!
+
+Useful Resources----
+Here are some links to the key tools used in this project:----
+
+1.Pandas Documentation – for data manipulation and preprocessing.
+2.Scikit-learn Documentation – for building the linear regression model.
+3.Matplotlib Documentation – for data visualization and plotting results.
